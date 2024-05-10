@@ -1,0 +1,1 @@
+# capitec-config-server
